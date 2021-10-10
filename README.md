@@ -43,10 +43,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/mern-dev-full">
+    <a href="https://github.com/narek-hov">
       <img src="https://avatars.githubusercontent.com/u/55296314?v=4" />
       <br />
-      mern-dev-full
+      narek-hov
     </a> 
   </td></tr>
 <tr>
@@ -403,6 +403,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/arn-ob">
+      <img src="https://avatars.githubusercontent.com/u/8177397?v=4" />
+      <br />
+      arn-ob
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/arturssmirnovs">
       <img src="https://avatars.githubusercontent.com/u/7140344?v=4" />
       <br />
@@ -419,6 +427,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/plentifullee">
+      <img src="https://avatars.githubusercontent.com/u/6201787?v=4" />
+      <br />
+      plentifullee
+    </a> 
+  </td></tr>
+<tr>
+  <td align="center">
     <a href="https://github.com/pompel123">
       <img src="https://avatars.githubusercontent.com/u/6089923?v=4" />
       <br />
@@ -432,8 +448,8 @@ Follow me to add yourself :)
       <br />
       roryw10
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/usmcamgrimm">
       <img src="https://avatars.githubusercontent.com/u/4663503?v=4" />
@@ -464,8 +480,8 @@ Follow me to add yourself :)
       <br />
       awalias
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/felladrin">
       <img src="https://avatars.githubusercontent.com/u/418083?v=4" />
