@@ -43,10 +43,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/narek-hov">
+    <a href="https://github.com/mern-dev-full">
       <img src="https://avatars.githubusercontent.com/u/55296314?v=4" />
       <br />
-      narek-hov
+      mern-dev-full
     </a> 
   </td></tr>
 <tr>
