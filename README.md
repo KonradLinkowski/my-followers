@@ -395,6 +395,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/bacloud14">
+      <img src="https://avatars.githubusercontent.com/u/10267332?v=4" />
+      <br />
+      bacloud14
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/arturperec">
       <img src="https://avatars.githubusercontent.com/u/9005550?v=4" />
       <br />
@@ -424,16 +432,16 @@ Follow me to add yourself :)
       <br />
       cliffordfajardo
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/plentifullee">
       <img src="https://avatars.githubusercontent.com/u/6201787?v=4" />
       <br />
       plentifullee
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/pompel123">
       <img src="https://avatars.githubusercontent.com/u/6089923?v=4" />
@@ -472,16 +480,16 @@ Follow me to add yourself :)
       <br />
       cmcquillan
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/awalias">
       <img src="https://avatars.githubusercontent.com/u/458736?v=4" />
       <br />
       awalias
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/felladrin">
       <img src="https://avatars.githubusercontent.com/u/418083?v=4" />
