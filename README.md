@@ -195,10 +195,10 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/animx11">
+    <a href="https://github.com/Animx11">
       <img src="https://avatars.githubusercontent.com/u/32570676?v=4" />
       <br />
-      animx11
+      Animx11
     </a> 
   </td>
 
