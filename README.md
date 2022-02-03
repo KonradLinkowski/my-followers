@@ -123,10 +123,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/gabrielhmelo">
+    <a href="https://github.com/gabrielmelodev">
       <img src="https://avatars.githubusercontent.com/u/50870406?v=4" />
       <br />
-      gabrielhmelo
+      gabrielmelodev
     </a> 
   </td>
 
