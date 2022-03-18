@@ -51,14 +51,6 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/MaciejGarncarski">
-      <img src="https://avatars.githubusercontent.com/u/60816511?v=4" />
-      <br />
-      MaciejGarncarski
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/iwtga">
       <img src="https://avatars.githubusercontent.com/u/59861270?v=4" />
       <br />
@@ -96,16 +88,16 @@ Follow me to add yourself :)
       <br />
       peterzam
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/dfoltynski">
       <img src="https://avatars.githubusercontent.com/u/53613664?v=4" />
       <br />
       dfoltynski
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/tejastn10">
       <img src="https://avatars.githubusercontent.com/u/52375207?v=4" />
@@ -144,16 +136,16 @@ Follow me to add yourself :)
       <br />
       gabrielmelodev
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/gonnastepsteph">
       <img src="https://avatars.githubusercontent.com/u/46465174?v=4" />
       <br />
       gonnastepsteph
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Iwaniukooo11">
       <img src="https://avatars.githubusercontent.com/u/45974414?v=4" />
@@ -192,16 +184,16 @@ Follow me to add yourself :)
       <br />
       BaptisteAngot
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Kyotho">
       <img src="https://avatars.githubusercontent.com/u/41431735?v=4" />
       <br />
       Kyotho
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/ABialoskorski">
       <img src="https://avatars.githubusercontent.com/u/40116220?v=4" />
@@ -240,16 +232,16 @@ Follow me to add yourself :)
       <br />
       Adorek
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Animx11">
       <img src="https://avatars.githubusercontent.com/u/32570676?v=4" />
       <br />
       Animx11
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/wiktorbalaban">
       <img src="https://avatars.githubusercontent.com/u/32570674?v=4" />
@@ -288,16 +280,16 @@ Follow me to add yourself :)
       <br />
       ovy17
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/maciekglowacki">
       <img src="https://avatars.githubusercontent.com/u/29459845?v=4" />
       <br />
       maciekglowacki
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Fillette">
       <img src="https://avatars.githubusercontent.com/u/28894032?v=4" />
@@ -336,16 +328,16 @@ Follow me to add yourself :)
       <br />
       kubal97
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/YoussefRabeiii">
       <img src="https://avatars.githubusercontent.com/u/26309006?v=4" />
       <br />
       YoussefRabeiii
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/plumthedev">
       <img src="https://avatars.githubusercontent.com/u/26173777?v=4" />
@@ -384,16 +376,16 @@ Follow me to add yourself :)
       <br />
       dawpes
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/DenverCoder1">
       <img src="https://avatars.githubusercontent.com/u/20955511?v=4" />
       <br />
       DenverCoder1
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/dziemo">
       <img src="https://avatars.githubusercontent.com/u/20903126?v=4" />
@@ -432,16 +424,16 @@ Follow me to add yourself :)
       <br />
       Mativve
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/VegaDeftwing">
       <img src="https://avatars.githubusercontent.com/u/11283620?v=4" />
       <br />
       VegaDeftwing
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/bacloud22">
       <img src="https://avatars.githubusercontent.com/u/10267332?v=4" />
@@ -480,16 +472,16 @@ Follow me to add yourself :)
       <br />
       cliffordfajardo
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/plentifullee">
       <img src="https://avatars.githubusercontent.com/u/6201787?v=4" />
       <br />
       plentifullee
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/pompel123">
       <img src="https://avatars.githubusercontent.com/u/6089923?v=4" />
@@ -528,16 +520,16 @@ Follow me to add yourself :)
       <br />
       cmcquillan
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/awalias">
       <img src="https://avatars.githubusercontent.com/u/458736?v=4" />
       <br />
       awalias
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/felladrin">
       <img src="https://avatars.githubusercontent.com/u/418083?v=4" />
