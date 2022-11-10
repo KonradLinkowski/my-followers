@@ -611,13 +611,21 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/filipgorczynski">
+      <img src="https://avatars.githubusercontent.com/u/467026?v=4" />
+      <br />
+      filipgorczynski
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/awalias">
       <img src="https://avatars.githubusercontent.com/u/458736?v=4" />
       <br />
       awalias
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/felladrin">
       <img src="https://avatars.githubusercontent.com/u/418083?v=4" />
